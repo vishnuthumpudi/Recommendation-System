@@ -1,4 +1,4 @@
-# Movie-Recommendation-Boltzmann-Machines
+# Movie-Recommendation
 
 Applies Collaborative using Restricted Boltzmann Machines to develop a movie recommender system.
 
